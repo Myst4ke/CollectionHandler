@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+openpyxl
+xlrd
+plotly >= 5.15.0
